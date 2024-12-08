@@ -12,10 +12,15 @@ class FirstViewController: UIViewController {
     // new file added
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("Hello world")
+        print(".....")
 
         // Do any additional setup after loading the view.
     }
     
+    func sayHello(){
+        print("this function says hello.")
+    }
 
     /*
     // MARK: - Navigation
