@@ -1,30 +1,21 @@
 //
-//  FirstViewController.swift
+//  SecondViewController.swift
 //  IB1
 //
-//  Created by Shruti Sachdeva on 08/12/24.
+//  Created by Shruti Sachdeva on 09/12/24.
 //
 
 import UIKit
 
-class FirstViewController: UIViewController {
+class SecondViewController: UIViewController {
 
-    // new file added
+    //Hey the second file.
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("Hello world")
-        print(".....")
 
         // Do any additional setup after loading the view.
     }
     
-    func sayHello(){
-        print("this function says hello.")
-    }
-    
-    func sayHelloUnStaged(){
-        print("this function shoudl appear as unstagedgit")
-    }
 
     /*
     // MARK: - Navigation
