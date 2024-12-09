@@ -26,10 +26,16 @@ class FirstViewController: UIViewController {
         print("this function shoudl appear as unstagedgit")
     }
 
+//<<<<<<< HEAD
     func myFuntionForMasterBranch(){
         print("This function is meant to isolate master branch.")
     }
     
+//=======
+    func myTestingBranchFunction() {
+        print("this function created to show a commit in testing branch.")
+    }
+//>>>>>>> testing
     /*
     // MARK: - Navigation
 
