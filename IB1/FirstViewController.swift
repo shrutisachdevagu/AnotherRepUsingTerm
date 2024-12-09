@@ -26,7 +26,7 @@ class FirstViewController: UIViewController {
         print("this function shoudl appear as unstagedgit")
     }
 
-    func myTestingBranchFucntion() {
+    func myTestingBranchFunction() {
         print("this function created to show a commit in testing branch.")
     }
     /*
