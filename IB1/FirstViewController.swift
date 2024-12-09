@@ -26,6 +26,9 @@ class FirstViewController: UIViewController {
         print("this function shoudl appear as unstagedgit")
     }
 
+    func myTestingBranchFucntion() {
+        print("this function created to show a commit in testing branch.")
+    }
     /*
     // MARK: - Navigation
 
